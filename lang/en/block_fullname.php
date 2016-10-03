@@ -43,3 +43,5 @@ $string['width_details'] = '';
 $string['height_details'] = '';
 $string['pagelayout_details'] = '';
 $string['url_details'] = '';
+$string['namecolor'] = 'Name Color';
+$string['namecolor_details'] = '';

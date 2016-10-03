@@ -49,3 +49,5 @@ $options['popup']=get_string('popup');
 $settings->add(new admin_setting_configselect('block_fullname/pagelayout', get_string('pagelayout', 'block_fullname'),
             get_string('pagelayout_details', 'block_fullname'),'course', $options));                                                       
                                                 
+$settings->add(new admin_setting_configcolourpicker('block_fullname/namecolor', get_string('namecolor','block_fullname'),
+	get_string('namecolor_details','block_fullname'),'#0'));
