@@ -22,7 +22,7 @@ echo $OUTPUT->header();
 echo $OUTPUT->heading(get_string('pluginname', 'block_fullname'),2);
 
 
-echo '<div><h3>' . fullname($USER) . '</h3></div>';
+echo '<div><h3>' . get_string('welcome', 'block_fullname') . fullname($USER) . '</h3></div>';
 
 echo '<br>' . $OUTPUT->user_picture($USER);
 
