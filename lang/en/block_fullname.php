@@ -31,9 +31,10 @@ $string['labelfoo'] = 'Config label';
 $string['fullname:addinstance'] = 'Add a fullname block';
 $string['fullname:myaddinstance'] = 'Add a fullname block to my moodle';
 $string['pluginname'] = 'Full Name';
+$string['welcome'] = 'Welcome ';
 $string['welcomeuser'] = 'Welcome {$a->firstname} {$a->lastname}';
 
-$string['gotofullname'] = 'Go to my Full Name page';
+$string['gotofullname'] = 'Go to your Full Name page'; 
 $string['width'] = 'Width';
 $string['height'] = 'Height';
 $string['url'] = 'iFrame URL';
